@@ -19,5 +19,6 @@ if __name__ == "__main__":
 @bot.event
 async def on_ready():
     print('Client is ready')
+    await bot.change_presence(status = discord.Status.online, activity = discord.Game("-도움말 명령어 입력"))
 
 bot.run('TOKEN')
