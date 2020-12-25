@@ -21,4 +21,4 @@ if __name__ == "__main__":
 async def on_ready():
     print('Client is ready')
 
-bot.run('Nzc1MzI4NTI5ODg1MDM2NTk1.X6ku9g.4ukIjK8yg7jOGIkvCjM29fdd6Q0')
+bot.run('')
