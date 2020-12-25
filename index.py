@@ -21,4 +21,4 @@ if __name__ == "__main__":
 async def on_ready():
     print('Client is ready')
 
-bot.run('')
+bot.run('TOKEN')
