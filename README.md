@@ -11,4 +11,4 @@ Ticket bot  // folder 폴더
  - cogs // folder 폴더
    - Developer.py
    - Help.py
-   - Ticket_tool.py
+   - Ticket.py
